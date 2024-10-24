@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://mosurude.github.io/sitemap/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/qTB/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/xXd/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/XKu/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/aYo/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/Cdp/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/vGD/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/rie/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/sDh/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/jDJ/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/Dqn/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/oYm/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/kmx/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/PyD/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/RVv/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/RUP/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/Cid/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/cug/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/ZFS/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/VXi/sitemap_index.mosurude
+Sitemap: https://mosurude.github.io/odO/sitemap_index.mosurude
